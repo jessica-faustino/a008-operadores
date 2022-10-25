@@ -17,7 +17,7 @@ resultado4 = b%a == 0;
 console.log ('O segundo numero é divisível pelo primeiro?', resultado4); */
 
 let a = prompt ("Digite o primeiro numero: ");
-console.log ("A: ", a);
+console.log ("A = ", a);
 
 while (a != 0){
 
